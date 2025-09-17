@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, i'm ahmad nasir
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnasir500&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadnasir500" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadnasir500&show_icons=true&locale=en" alt="ahmadnasir500" /></p>
 <!--
